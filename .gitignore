@@ -2,3 +2,24 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# C extensions
+.so
+
+# Distributing / packaging
+MANIFEST
+
+# Installer logs
+pip-log.txt
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Markdown documentations
+site/
