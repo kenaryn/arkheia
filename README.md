@@ -15,7 +15,7 @@ Arkheia is a software intended to all lover of books and those following profess
 * Archivists
 * Dealers in old books
 * Booksellers
-* Technicians responsables for managing any book's commercial or technical database in their company.
+* Technicians responsables for managing any commercial book's or technical database in their company.
 
 
 Roadmap
